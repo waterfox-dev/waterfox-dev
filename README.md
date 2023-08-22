@@ -9,6 +9,7 @@
 <p align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterfox-dev&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Waterfox's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterfox-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
