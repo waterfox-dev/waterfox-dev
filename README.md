@@ -6,7 +6,7 @@
 
 🌟 Join me in this exciting adventure of exploration and growth as we navigate the ever-evolving world of programming together. Feel free to connect, collaborate, or simply share your thoughts – I'm all ears! 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterfox-dev)](https://github.com/anuraghazra/github-readme-stats)
+![Waterfox's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterfox&show_icons=true&theme=transparent)
 
 <!--
 **waterfox-dev/waterfox-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
